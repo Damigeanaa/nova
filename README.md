@@ -55,6 +55,7 @@ Intuitive navigation
 Fast & lightweight <br>
 No registration required <br>
 Multiple backup domains <br>
+HTMX-powered navigation & components <br>
 Regular updates
 
 </td>
